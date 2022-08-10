@@ -10,6 +10,7 @@ this system has 3 users
 
 - is able to perform all actions in the system
 - is able create,update,delete users
+- - is able create,update,delete departments
 - is able block and unblock accounts
 - is able to approve or reject weekly plans from employees
 - is able to generate report
